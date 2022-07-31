@@ -11,9 +11,9 @@ I have build a template of  HTML and CSS project using my core css skills <br>
 ![](https://img.shields.io/badge/CSS-3-ff69b4)
 
 
-> **Live deployed website link :-[Website link]()**
-
-![]()
+> **Live deployed website link :-[Website link](https://law-and-justice-website.netlify.app/)**
+> How look like my website
+![](https://github.com/Swadhindhara/Justice-template-website--Project-3/blob/main/Final%20output.png)
 
 ## What I have learned in this project
   - In this project I have learned how to use html and css for building a beautiful template.
