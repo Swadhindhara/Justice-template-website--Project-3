@@ -12,7 +12,8 @@ I have build a template of  HTML and CSS project using my core css skills <br>
 
 
 > **Live deployed website link :-[Website link](https://law-and-justice-website.netlify.app/)**
-> How look like my website
+
+## How look like my website
 ![](https://github.com/Swadhindhara/Justice-template-website--Project-3/blob/main/Final%20output.png)
 
 ## What I have learned in this project
